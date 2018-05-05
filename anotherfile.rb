@@ -1,1 +1,1 @@
-puts "Hello World"
+2+2
